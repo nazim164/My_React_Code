@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Nazim",
+      "username": "Chishti",
+      "email": "nazim@gmail.com",
+      "phone": "5269759612",
+      "id": 1
+    },
+    {
+      "name": "sumit",
+      "username": "dahake",
+      "email": "dahake@gmail.com",
+      "phone": "9185763545",
+      "id": 2
+    },
+    {
+      "name": "rushabh",
+      "username": "bagde",
+      "email": "bagde@gmail.com",
+      "phone": "5269857465",
+      "id": 3
+    },
+    {
+      "name": "far",
+      "username": "ha",
+      "email": "farha@gmail.comg",
+      "phone": "526585",
+      "id": 4
+    },
+    {
+      "name": "gfsdf",
+      "username": "Gayatri Bansod",
+      "email": "farha@gmail.com",
+      "phone": "5269759612",
+      "id": 5
+    }
+  ]
+}
